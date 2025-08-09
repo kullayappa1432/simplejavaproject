@@ -15,6 +15,7 @@ String name=u1.getname();
 <input type="text" placeholder="Please enter your name"></form>
 <%
 Connection con=null;
+String nam;
 Statement stmt=null;
 ResultSet rs=null;
 
